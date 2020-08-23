@@ -1,0 +1,39 @@
+baseURL = "https://chris.swanz.net/"
+languageCode = "en-us"
+title = "Chris Swan Home Page"
+theme = "hallo"
+[Author]
+    name = "Chris Swan"
+[params]
+    [params.colors]
+        background = "#9651b5"
+        foreground = "#edf7ff"
+        hover = "#ffba82"
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/cpswan"
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/cpswan"
+    [[params.links]]
+        icon = "wordpress"
+        title = "Blog"
+        url = "https://blog.thestateofme.com"
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/chrisswan/"
+    [[params.links]]
+        icon = "slideshare"
+        title = "Slideshare"
+        url = "https://www.slideshare.net/cpswan"
+    [[params.links]]
+        icon = "docker"
+        title = "Docker Hub"
+        url = "https://hub.docker.com/u/cpswan"
+    [[params.links]]
+        icon = "untappd"
+        title = "Untappd"
+        url = "https://untappd.com/user/cpswan"
