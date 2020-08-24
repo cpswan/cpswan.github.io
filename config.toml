@@ -1,7 +1,7 @@
 baseURL = "https://chris.swanz.net/"
 languageCode = "en-us"
 title = "Chris Swan Home Page"
-theme = "hallo"
+theme = "cpshallo"
 [Author]
     name = "Chris Swan"
 [params]
