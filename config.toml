@@ -30,6 +30,10 @@ theme = "cpshallo"
         title = "Slideshare"
         url = "https://www.slideshare.net/cpswan"
     [[params.links]]
+        icon = "delicious"
+        title = "Pinboard"
+        url = "https://pinboard.in/u:cpswan"
+    [[params.links]]
         icon = "docker"
         title = "Docker Hub"
         url = "https://hub.docker.com/u/cpswan"
