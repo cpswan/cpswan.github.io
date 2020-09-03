@@ -10,6 +10,10 @@ theme = "cpshallo"
         foreground = "#edf7ff"
         hover = "#ffba82"
     [[params.links]]
+        icon = "wordpress"
+        title = "Blog"
+        url = "https://blog.thestateofme.com"
+    [[params.links]]
         icon = "github"
         title = "Github"
         url = "https://github.com/cpswan"
@@ -17,10 +21,6 @@ theme = "cpshallo"
         icon = "twitter"
         title = "Twitter"
         url = "https://twitter.com/cpswan"
-    [[params.links]]
-        icon = "wordpress"
-        title = "Blog"
-        url = "https://blog.thestateofme.com"
     [[params.links]]
         icon = "linkedin"
         title = "LinkedIn"
