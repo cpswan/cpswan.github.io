@@ -41,3 +41,8 @@ theme = "cpshallo"
         icon = "untappd"
         title = "Untappd"
         url = "https://untappd.com/user/cpswan"
+    [[params.links]]
+        iconset = "fas"
+        icon = "podcast"
+        title = "Tech Debt Burndown"
+        url = "https://techdebtburndown.com"
