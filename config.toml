@@ -42,6 +42,10 @@ theme = "cpshallo"
         title = "Untappd"
         url = "https://untappd.com/user/cpswan"
     [[params.links]]
+        icon = "stack-overflow"
+        title = "Stack Overflow"
+        url = "https://stackexchange.com/users/4736558/chris-swan?tab=accounts" 
+    [[params.links]]
         iconset = "fas"
         icon = "podcast"
         title = "Tech Debt Burndown"
