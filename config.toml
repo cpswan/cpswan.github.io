@@ -30,6 +30,10 @@ theme = "cpshallo"
         title = "LinkedIn"
         url = "https://www.linkedin.com/in/chrisswan/"
     [[params.links]]
+        icon = "google"
+        title = "Google Developer Expert"
+        url = "https://developers.google.com/community/experts/directory/profile/profile-chris-swan"
+    [[params.links]]
         icon = "slideshare"
         title = "Slideshare"
         url = "https://www.slideshare.net/cpswan"
