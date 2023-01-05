@@ -22,6 +22,10 @@ theme = "cpshallo"
         title = "Twitter"
         url = "https://twitter.com/cpswan"
     [[params.links]]
+        icon = "mastodon"
+        title = "Mastodon"
+        url = "https://hachyderm.io/@cpswan"
+    [[params.links]]
         icon = "linkedin"
         title = "LinkedIn"
         url = "https://www.linkedin.com/in/chrisswan/"
