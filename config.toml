@@ -26,6 +26,11 @@ theme = "cpshallo"
         title = "Mastodon"
         url = "https://hachyderm.io/@cpswan"
     [[params.links]]
+        iconset = "fas"
+        icon = "cloud"
+        title = "Bluesky"
+        url = "https://bsky.app/profile/cpswan.net"
+    [[params.links]]
         icon = "linkedin"
         title = "LinkedIn"
         url = "https://www.linkedin.com/in/chrisswan/"
