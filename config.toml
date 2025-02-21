@@ -14,14 +14,6 @@ theme = "cpshallo"
         title = "Blog"
         url = "https://blog.thestateofme.com"
     [[params.links]]
-        icon = "github"
-        title = "Github"
-        url = "https://github.com/cpswan"
-    [[params.links]]
-        icon = "twitter"
-        title = "Twitter"
-        url = "https://twitter.com/cpswan"
-    [[params.links]]
         icon = "mastodon"
         title = "Mastodon"
         url = "https://hachyderm.io/@cpswan"
@@ -31,13 +23,17 @@ theme = "cpshallo"
         title = "Bluesky"
         url = "https://bsky.app/profile/cpswan.net"
     [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/cpswan"
+    [[params.links]]
         icon = "linkedin"
         title = "LinkedIn"
         url = "https://www.linkedin.com/in/chrisswan/"
     [[params.links]]
         icon = "google"
         title = "Google Developer Expert"
-        url = "https://developers.google.com/community/experts/directory/profile/profile-chris-swan"
+        url = "https://g.dev/cpswan"
     [[params.links]]
         icon = "slideshare"
         title = "Slideshare"
@@ -63,3 +59,8 @@ theme = "cpshallo"
         icon = "podcast"
         title = "Tech Debt Burndown"
         url = "https://techdebtburndown.com"
+    [[params.links]]
+        iconset = "fas"
+        icon = "signal"
+        title = "Signal"
+        url = "https://signal.me/#eu/0XX92pS8aWVNl_5120qDHRevVIe7OwIXhpYLj3v8FvrR5K8ZdZZCj5DEIZd8pZlD"
